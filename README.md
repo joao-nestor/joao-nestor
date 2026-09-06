@@ -1,4 +1,4 @@
-<img src="https://github.com/joao-nestor/joao-nestor/blob/main/darth-vader.gif" width="500"/>
+<img src="https://media1.tenor.com/m/61IuWTb9fE0AAAAd/darth-vader.gif" width="500"/>
 
 # 👋 Olá! Eu sou João Pedro
 
