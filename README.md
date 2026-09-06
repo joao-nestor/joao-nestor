@@ -1,3 +1,5 @@
+<img src="https://github.com/joao-nestor/joao-nestor/blob/main/darth-vader.gif" width="500"/>
+
 # 👋 Olá! Eu sou João Pedro
 
 ### 💻 Estudante de Eletrônica | Futuro desenvolvedor
